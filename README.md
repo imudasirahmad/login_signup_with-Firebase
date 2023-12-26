@@ -1,16 +1,15 @@
 # firebase2
 
-A new Flutter project.
+As a passionate #Flutter developer, I've been working on something amazing & let me introduce my - Login Authentication hashtag#App that combines attractive hashtag#UI & backend functionality through hashtag#firebase . 🚀😃
 
-## Getting Started
+Key Features:
+🌟 Stunning Splash Screen
+🎨 Elegant Login & Signup UI Design
+📲 OTP Phone Number Authentication
+🔑Login/Logout Session
 
-This project is a starting point for a Flutter application.
+Building this project was a journey of creativity and innovation for me.
 
-A few resources to get you started if this is your first Flutter project:
+mudasirahmad0311@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.linkedin.com/in/mudasirahmadkhan/
